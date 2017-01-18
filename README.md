@@ -1,5 +1,7 @@
 # TestoBot
 
+[![Dependency Status](https://www.versioneye.com/user/projects/587f87c4452b830031360aa9/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/587f87c4452b830031360aa9) 
+
 TestoBot allows you to test your slack chatbot with expect-style tests.
 
 Should be compatible with most nodejs testing frameworks, such as [mocha](https://mochajs.org).
