@@ -1,0 +1,20 @@
+{
+  "name": "testobot",
+  "version": "0.0.1",
+  "description": "Expect-style tests for slack chatbots",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abresas/testobot.git"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Alexios Brezas",
+    "email": "abresas@gmail.com"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "promise-queue-rate-limited": "^0.4.1",
+    "slack": "^8.1.2"
+  }
+}
